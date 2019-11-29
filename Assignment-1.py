@@ -1,5 +1,5 @@
 '''Q1: Write a program which takes 5 inputs from user for different subject’s
- marks, total it and generate mark sheet using hello'''
+ marks, total it and generate mark sheet using grades'''
  
 math_marks = int(input('Mathematics Marks From 100 : '))
 english_marks = int(input('English Marks From 100 : '))
